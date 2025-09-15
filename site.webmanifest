@@ -1,0 +1,21 @@
+{
+  "name": "MOTIVESUPPLY",
+  "short_name": "MOTIVESUPPLY",
+  "icons": [
+    {
+      "src": "https://www.dropbox.com/scl/fi/tynsaopg4f9ovfi6fwr6s/web-app-manifest-192x192.png?rlkey=7h7muykiuots7wpu96r4zo9cp&st=ip3zx2z4&raw=1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://www.dropbox.com/scl/fi/hoad8b4oef2zlh0i4uvab/web-app-manifest-512x512.png?rlkey=fc6ilq6b8arfuyhupm8je17dp&st=2uk5ggod&raw=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
